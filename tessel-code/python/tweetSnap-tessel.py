@@ -16,8 +16,7 @@ auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
 api = tweepy.API(auth)
 
 listOfPic = list()
-# NOTE: this file path will be different then the tweetSnap.py in tessel-code
-for file in os.listdir("/Users/brydenfogelman/Documents/nwHacks/TweetSnap/python/images"):
+for file in os.listdir("/Users/brydenfogelman/Documents/test/images"):
     if file.endswith(".jpg"):
         listOfPic.append(file)
         
