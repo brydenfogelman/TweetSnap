@@ -3,9 +3,10 @@
 Hello!
 
 Details:
-  run-me: contains the the most update contents, run these scripts to operate our hack
-  python - folder contains all our python scripts (contains practice scripts as well, used as our testing enviroment   for py scripts)
-  tessel-code - folder contains all our tessel files (contains practice scripts as well, used as our testing           enviroment for tessel)
+  - run-me: contains the the most update contents, run these scripts to operate our hack
+  - python - folder contains all our python scripts (contains practice scripts as well, used as our testing enviroment   for py scripts)
+  - tessel-code - folder contains all our tessel files (contains practice scripts as well, used as our testing enviroment for tessel)
+
   TODO: clean up these directories
   
 How-to run:
